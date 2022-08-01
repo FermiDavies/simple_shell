@@ -1,4 +1,4 @@
-# Simple Shell project 0x16.c - Sodash -
+# Simple Shell project 0x16.C - Sodash -
 
 This is a simple UNIX command interpreter based on bash and Sh.
 
